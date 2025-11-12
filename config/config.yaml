@@ -134,8 +134,6 @@ platforms:
   # === 科技类平台 ===
   - id: "ithome"
     name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
   - id: "github"
     name: "GitHub"
   - id: "hackernews"
@@ -148,8 +146,6 @@ platforms:
     name: "牛客网"
   - id: "pcbeta"
     name: "远景论坛"
-  - id: "sspai"
-    name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
 
