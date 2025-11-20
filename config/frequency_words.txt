@@ -5,7 +5,6 @@ Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
@@ -13,24 +12,21 @@ AMD
 google
 gemini
 deepmind
+aistudio
 
 chatgpt
 openai
 sora
+codex
+
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
+claude code
 
 ai
 !gai
 人工智能
 大模型
-
-自动驾驶
-
-机器人
+llm
+AGI
